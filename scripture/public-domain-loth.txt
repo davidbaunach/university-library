@@ -4,6 +4,7 @@ Catholic Public Domain Version
 
 A Saint Maker project begun in the 2024th year of Our Lord.
 Making use of the Catholic Public Domain Bible translation.
+(Catholic Public Domain Bible stored here: university-library/scripture/catholic-public-domain-bible.txt)
 
 
 That the prayer of the Church may be accessible to all.
